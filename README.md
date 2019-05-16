@@ -4,6 +4,8 @@ This is a GIMP plug-in I made to generate a set of pixelized images for use in "
 ## Example
 Look at the sample image in the input folder. The script, if used as-is, will output a set of images like the ones in the output folder.
 
+The sample image is sourced from https://www.irasutoya.com/2013/05/blog-post_5956.html, and is copyright Takashi Mifune.
+
 ## Install
 Copy `pixelized-set.py` to the plug-in folder for GIMP. Check out https://en.wikibooks.org/wiki/GIMP/Installing_Plugins for more information on how to do this.
 
